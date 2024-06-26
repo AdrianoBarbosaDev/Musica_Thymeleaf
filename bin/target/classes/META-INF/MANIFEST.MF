@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: adria
+Build-Jdk: 17.0.10
+Implementation-Title: Archetype - Musica_Thymeleaf
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
